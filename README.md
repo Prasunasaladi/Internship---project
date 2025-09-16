@@ -1,4 +1,4 @@
-
+#Iternship---project
 Diwali Sales Analysis using Python & Excel
 This project focuses on analyzing Diwali sales data to uncover insights about customer behavior, product performance, and revenue trends during the festive season.
 🔎 Key Highlights:
